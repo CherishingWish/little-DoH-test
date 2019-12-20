@@ -9,3 +9,5 @@ DoH.exe can send and receive DoH request, you can just open and try it
 3. Make sure no process occupy the 53 port，otherwise the program will quit immediately.
 4. start DoHc.exe
 5. Than you can bypass DNS pollution, view websites like nhentai.net maybe?
+# How to use DoH.exe
+Just open it.
